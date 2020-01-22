@@ -17,3 +17,10 @@ def square(length, angle):
 for i in range(100):
     square(90,90)
     my_turtle.right(12)
+
+
+
+
+
+
+https://trinket.io/python/6ddf09cc21
